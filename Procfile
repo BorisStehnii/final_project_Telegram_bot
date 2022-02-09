@@ -1,1 +1,0 @@
-web: gunicorn bot_app:fapp

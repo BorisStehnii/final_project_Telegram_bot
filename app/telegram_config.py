@@ -1,1 +1,0 @@
-ADMIN = {"USER_ID": [292547789, 507346834], "USER_NAME": ['RustySamurai']}
